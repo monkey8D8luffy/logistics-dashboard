@@ -2,11 +2,12 @@
 
 ## 🌐 Live Deployment
 
-**\[View the Live Dashboard Here\]**(Replace-this-with-your-Streamlit-URL-later)
+**\[View the Live Dashboard Here\]**(https://logistics-dashboard-yxxpmb4tuemmkhybwteq7u.streamlit.app/)
 
 ## 📸 Dashboard Preview
 
-> <img width="1279" height="734" alt="image" src="https://github.com/user-attachments/assets/b07a56e9-d731-4e9c-a25e-f63c934a3caa" />
+><img width="1280" height="734" alt="image" src="https://github.com/user-attachments/assets/668d4b5d-459d-4d43-90a7-ef9da6e92a04" />
+
 
 > 
 
