@@ -6,7 +6,8 @@
 
 ## 📸 Dashboard Preview
 
-> *(Replace the link below with a screenshot of your beautiful liquid-glass UI once it is running)*
+> <img width="1279" height="734" alt="image" src="https://github.com/user-attachments/assets/b07a56e9-d731-4e9c-a25e-f63c934a3caa" />
+
 > 
 
 ## 🎯 Business Value & Use Case
